@@ -54,6 +54,6 @@ iOSでは、App Tracking Transparency（ATT）フレームワークに基づき�
 
 本ポリシーに関するお問い合わせは、下記までご連絡ください。
 
-**ansiro417@gmail.com**
+**sigegg@outlook.jp**
 
 [トップページに戻る](../)
